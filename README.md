@@ -3,8 +3,8 @@
 
 2019年开始记录这年的学习经历。
 
-target：
-	* GOLANG
-	* DevOps
-	* docker & kubernetes
-	* outting
+target:
+* GOLANG
+* DevOps
+* docker & kubernetes
+* outting
